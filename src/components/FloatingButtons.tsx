@@ -30,7 +30,7 @@ export default function FloatingButtons() {
 
   const openWhatsApp = () => {
     const message = encodeURIComponent('Bonjour, je souhaite avoir des informations sur vos collections.');
-    window.open(`https://wa.me/+33123456789?text=${message}`, '_blank');
+    window.open(`https://wa.me/+2290166393459?text=${message}`, '_blank');
   };
 
   return (
