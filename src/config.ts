@@ -53,7 +53,7 @@ export interface WelcomeConfig {
 
 export const welcomeConfig: WelcomeConfig = {
   sectionLabel: "Bienvenue",
-  title: "Bienvenu à AMEREY SHOP",
+  title: "Bienvenue à AMEREY SHOP",
   subtitle: "Votre destination pour une mode prêt à porter élégante",
   description: "Dans un univers où le luxe rencontre l'accessibilité, AMEREY SHOP vous invite à découvrir une sélection curée de pièces prêt-à-porter pour homme et femme. Chaque vêtement est choisi avec soin pour son excellence, son style intemporel et son artisanat d'exception. Notre passion pour la mode se traduit par une expérience shopping unique, alliant conseil personnalisé et collections soigneusement sélectionnées.",
   features: [
