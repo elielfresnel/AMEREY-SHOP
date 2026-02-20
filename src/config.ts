@@ -109,7 +109,6 @@ export const collectionsConfig: CollectionsConfig = {
       title: "Custom Outfit Design",
       description: "Exprimez votre unicité grâce à nos conseils mode sur-mesure. Nos experts vous accompagnent pour créer des looks qui reflètent parfaitement votre personnalité et votre élégance naturelle.",
       image: "/collection-3.jpg",
-      buttonText: "Réserver",
     },
     {
       id: 4,
