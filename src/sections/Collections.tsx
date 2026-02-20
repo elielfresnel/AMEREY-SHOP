@@ -219,7 +219,6 @@ export default function Collections() {
                       border: 'none'
                     }}
                   >
-                    {collection.buttonText}
                     <ArrowRight size={14} />
                   </button>
                 </div>
