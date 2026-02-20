@@ -78,7 +78,6 @@ export interface Collection {
   title: string;
   description: string;
   image: string;
-  buttonText: string;
 }
 
 export interface CollectionsConfig {
@@ -98,14 +97,12 @@ export const collectionsConfig: CollectionsConfig = {
       title: "Style Consultation",
       description: "Bénéficiez de l'expertise de nos stylistes pour révéler votre personnalité à travers votre garde-robe. Une session personnalisée pour définir votre style unique.",
       image: "/collection-1.jpg",
-      buttonText: "Réserver",
     },
     {
       id: 2,
       title: "Custom Outfit Design",
       description: "Créez des tenues sur-mesure qui vous ressemblent. De la sélection des tissus à la coupe finale, nous donnons vie à vos aspirations mode.",
       image: "/collection-2.jpg",
-      buttonText: "Réserver",
     },
     {
       id: 3,
@@ -119,14 +116,12 @@ export const collectionsConfig: CollectionsConfig = {
       title: "Custom Outfit Design",
       description: "Transformez votre garde-robe en véritable signature de style. Nos stylistes vous guident dans le choix de pièces qui allient tendance, confort et sophistication.",
       image: "/collection-4.jpg",
-      buttonText: "Réserver",
     },
     {
       id: 5,
       title: "Custom Outfit Design",
       description: "Vivez une expérience mode exclusive et raffinée. Nos services sur-mesure vous permettent de composer des ensembles qui vous ressemblent et qui font forte impression.",
       image: "/collection-5.jpg",
-      buttonText: "Réserver",
       
     },
     {
@@ -134,7 +129,6 @@ export const collectionsConfig: CollectionsConfig = {
       title: "Custom Outfit Design",
       description: "Sublimez votre allure avec nos conseils personnalisés. Nos stylistes vous accompagnent pas à pas pour composer une garde-robe qui reflète votre personnalité et votre élégance, à chaque occasion.",
       image: "/collection-6.jpg",
-      buttonText: "Réserver",
     },
   ],
 };
